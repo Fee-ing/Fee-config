@@ -8,6 +8,15 @@
       "authComment": true,
       "commentTimeBorder": 8000,
       "commentProbabilityBorder": 5
+    },
+    "7a5ef999b378cb5b": {
+      "timeRange": [3000, 15000],
+      "authLike": true,
+      "likeTimeBorder": 8000,
+      "likeProbabilityBorder": 5,
+      "authComment": true,
+      "commentTimeBorder": 8000,
+      "commentProbabilityBorder": 5
     }
   }
 }
