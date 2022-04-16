@@ -15,7 +15,7 @@
       "likeTimeBorder": 5000,
       "likeProbabilityBorder": 5,
       "authComment": true,
-      "commentTimeBorder": 8000,
+      "commentTimeBorder": 5000,
       "commentProbabilityBorder": 5
     }
   }
